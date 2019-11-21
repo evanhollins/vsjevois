@@ -1,5 +1,6 @@
 {
 	"name": "jevois",
+	"publisher": "evanhollins",
 	"displayName": "Jevois",
 	"description": "Functionality of Jevois Inventor combined with the power of VS Code",
 	"version": "0.0.1",
